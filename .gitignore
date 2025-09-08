@@ -1,2 +1,23 @@
 july.csv
 venv
+spatial_outlier_4km.csv
+spatial_outlier_5km.csv
+merged.csv
+data.csv
+cleaned_data_qc.csv
+faulty_zero_4km.csv
+cleaned_data.csv
+stations_report.csv
+spatial_outliers_4km.csv
+high_rainfall_4km.csv
+full_data.csv
+device_api - Copy.py
+faulty_zero_5km.csv
+faulty_zero_summary_5km.csv
+faulty_zero_summary.csv
+high_rainfall_5km.csv
+high_rainfall_summary_5km.csv
+high_rainfall_summary.csv
+outliers_summary_5km.csv
+outliers_summary.csv
+spatial_outliers_5km.csv
